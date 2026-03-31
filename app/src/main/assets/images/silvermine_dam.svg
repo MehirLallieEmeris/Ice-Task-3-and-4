@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#89f7fe"/>
+      <stop offset="100%" stop-color="#66a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g3)"/>
+  <rect x="0" y="380" width="1280" height="340" fill="#2c7fb8" opacity="0.6"/>
+  <ellipse cx="980" cy="170" rx="180" ry="80" fill="#ffffff" opacity="0.35"/>
+  <text x="80" y="640" font-size="64" fill="#ffffff" font-family="sans-serif">Silvermine Dam Picnic</text>
+</svg>

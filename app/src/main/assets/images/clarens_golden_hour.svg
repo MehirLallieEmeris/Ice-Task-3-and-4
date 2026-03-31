@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff9a9e"/>
+      <stop offset="100%" stop-color="#fad0c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g5)"/>
+  <circle cx="1020" cy="180" r="100" fill="#ffd166" opacity="0.8"/>
+  <polygon points="0,560 320,320 640,560" fill="#a47148" opacity="0.75"/>
+  <polygon points="420,560 820,260 1220,560" fill="#8d5a3b" opacity="0.8"/>
+  <text x="80" y="640" font-size="64" fill="#ffffff" font-family="sans-serif">Clarens Golden Hour</text>
+</svg>

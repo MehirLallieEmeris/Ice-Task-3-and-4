@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#11998e"/>
+      <stop offset="100%" stop-color="#38ef7d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g4)"/>
+  <rect x="590" y="120" width="120" height="430" fill="#dff6ff" opacity="0.75"/>
+  <rect x="0" y="520" width="1280" height="200" fill="#1b4332" opacity="0.65"/>
+  <text x="80" y="640" font-size="64" fill="#ffffff" font-family="sans-serif">Karkloof Falls</text>
+</svg>

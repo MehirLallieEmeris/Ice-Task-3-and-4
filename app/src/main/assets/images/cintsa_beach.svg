@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="g7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#74ebd5"/>
+      <stop offset="100%" stop-color="#acb6e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g7)"/>
+  <rect x="0" y="470" width="1280" height="250" fill="#f4d58d" opacity="0.85"/>
+  <rect x="0" y="420" width="1280" height="90" fill="#3da5d9" opacity="0.75"/>
+  <text x="80" y="640" font-size="64" fill="#ffffff" font-family="sans-serif">Cintsa Beach Picnic</text>
+</svg>

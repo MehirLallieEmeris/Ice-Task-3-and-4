@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#355c7d"/>
+      <stop offset="100%" stop-color="#6c5b7b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g2)"/>
+  <polygon points="0,520 260,300 520,520" fill="#3a6b35"/>
+  <polygon points="380,520 700,240 1020,520" fill="#4f8a3f"/>
+  <polygon points="760,520 1030,320 1280,520" fill="#2f6a30"/>
+  <text x="80" y="640" font-size="64" fill="#ffffff" font-family="sans-serif">Hennops Hiking Trail</text>
+</svg>
